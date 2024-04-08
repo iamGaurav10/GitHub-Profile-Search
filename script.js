@@ -1,4 +1,4 @@
-let input = document.querySelector(".customInput")
+let input = document.querySelector(".customInput");
 
 function getUserDetails() {
   input.addEventListener("keypress", async function (e) {
